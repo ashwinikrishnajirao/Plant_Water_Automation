@@ -75,7 +75,7 @@ In daily farming or gardening operations, watering is a crucial yet intensive ta
 2. **Software Setup**
     - Clone the repository:
       ```bash
-      git clone https://github.com/yourusername/automatic-plant-watering.git
+      git clone [https://github.com/ashwinikrishnajirao/Plant_Water_Automation.git]
       cd automatic-plant-watering
       ```
     - Open the Arduino IDE and load the provided sketch:
